@@ -1,0 +1,6 @@
+customtkinter
+googletrans==4.0.0-rc1
+pyttsx3
+SpeechRecognition
+
+Command: pip install customtkinter googletrans==4.0.0-rc1 pyttsx3 speechrecognition
