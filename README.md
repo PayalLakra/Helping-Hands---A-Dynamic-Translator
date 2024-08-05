@@ -6,23 +6,24 @@ Text-to-Speech: Convert written text to spoken words
 
 Speech-to-Text: Convert spoken language into text
 
-File-to-Speech: Read aloud text from a file.
-Speech-to-Speech: Translate spoken language into another spoken language.
-Features
-Translate text between multiple languages.
-Convert text to speech with different voice options.
-Record and convert speech to text.
-Read aloud content from text files.
-Support for real-time speech-to-speech translation.
-Libraries Used
-This project utilizes several Python libraries:
+File-to-Speech: Read aloud text from a file
 
-tkinter: Standard GUI toolkit for building graphical user interfaces.
-customtkinter: Enhanced version of tkinter with a modern look and additional features.
-googletrans: A library to interface with Google Translate for language translation.
-pyttsx3: Text-to-speech conversion library.
-speech_recognition: Library for speech recognition.
-pydub: Simplified audio processing library (optional, depending on your needs).
+Speech-to-Speech: Translate spoken language into another spoken language
+
+Features::
+Translate text between multiple languages, Convert text to speech with different voice options, Record and convert speech to text, Read aloud content from text files, Support for real-time speech-to-speech translation.
+
+Libraries Used::
+tkinter: Standard GUI toolkit for building graphical user interfaces
+
+customtkinter: Enhanced version of tkinter with a modern look and additional features
+
+googletrans: A library to interface with Google Translate for language translation
+
+pyttsx3: Text-to-speech conversion library
+
+speech_recognition: Library for speech recognition
+
 
 
 <img width="513" alt="Screenshot 2024-08-05 180223" src="https://github.com/user-attachments/assets/efc02a64-0235-4219-bbad-719be708db25">
