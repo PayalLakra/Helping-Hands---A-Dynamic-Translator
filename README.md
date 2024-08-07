@@ -1,4 +1,4 @@
-Helping Hand - Dynamic Translator:: Itis a dynamic translation application that supports various functionalities including:
+Helping Hand - Dynamic Translator:: It is a dynamic translation application that supports various functionalities including:
 
 Text-to-Text Translation: Translate text from one language to another
 
@@ -9,6 +9,8 @@ Speech-to-Text: Convert spoken language into text
 File-to-Speech: Read aloud text from a file
 
 Speech-to-Speech: Translate spoken language into another spoken language
+
+Image-to-Text & Speech: Translate the text from Image into Text & also read aloud the text .
 
 Features::
 Translate text between multiple languages, Convert text to speech with different voice options, Record and convert speech to text, Read aloud content from text files, Support for real-time speech-to-speech translation.
