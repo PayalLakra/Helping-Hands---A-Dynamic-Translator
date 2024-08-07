@@ -37,4 +37,17 @@ speech_recognition: Library for speech recognition
 <img width="300" alt="Screenshot 2024-08-06 163517" src="https://github.com/user-attachments/assets/8d9c97dc-6430-49c2-a2b3-d733d545a4d7">
 <img width="298" alt="Screenshot 2024-08-06 163449" src="https://github.com/user-attachments/assets/9ac0cd20-922f-43c4-91aa-f389a50cbc73">
 
+Requirements ::
+Python 3.x
+Tesseract-OCR (must be installed separately)
 
+Installation ::-
+Clone the repository: git clone https://github.com/your-username/your-repository.git
+                      cd your-repository
+Install the required Python packages: pip install -r requirements.txt
+                                      Install Tesseract-OCR:
+Ensure the path to the Tesseract executable is correctly set in the script: pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+(Adjust the path according to your installation directory.)
+
+Usage ::
+Run the application: python your_script_name.py
