@@ -1,5 +1,8 @@
-customtkinter
+Pillow==8.4.0
+pytesseract==0.3.8
+pyttsx3==2.90
 googletrans==4.0.0-rc1
-pyttsx3
-SpeechRecognition
+SpeechRecognition==3.8.1
+customtkinter==4.6.3
+
 
