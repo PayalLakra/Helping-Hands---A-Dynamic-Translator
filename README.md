@@ -28,11 +28,13 @@ speech_recognition: Library for speech recognition
 
 
 
-<img width="513" alt="Screenshot 2024-08-05 180223" src="https://github.com/user-attachments/assets/efc02a64-0235-4219-bbad-719be708db25">
+<img width="958" alt="Screenshot 2024-08-06 163439" src="https://github.com/user-attachments/assets/f4ee2b57-6903-43ab-88b4-b2f685dcc0a7">
 <img width="513" alt="Screenshot 2024-08-05 180345" src="https://github.com/user-attachments/assets/7a0e1f8d-a62e-481a-8fcd-243d070f6437">
 <img width="499" alt="Screenshot 2024-08-05 180335" src="https://github.com/user-attachments/assets/2d961ae3-1c31-4db2-ac10-760f390baa22">
 <img width="516" alt="Screenshot 2024-08-05 180321" src="https://github.com/user-attachments/assets/e14b3cdb-dd1c-4db4-a786-d691d7c92a00">
 <img width="519" alt="Screenshot 2024-08-05 180307" src="https://github.com/user-attachments/assets/1d21cab7-bcca-400e-a5da-741853767640">
 <img width="517" alt="Screenshot 2024-08-05 180252" src="https://github.com/user-attachments/assets/8292195e-45f9-4b7f-97d0-86d8c7cd5017">
+<img width="300" alt="Screenshot 2024-08-06 163517" src="https://github.com/user-attachments/assets/8d9c97dc-6430-49c2-a2b3-d733d545a4d7">
+<img width="298" alt="Screenshot 2024-08-06 163449" src="https://github.com/user-attachments/assets/9ac0cd20-922f-43c4-91aa-f389a50cbc73">
 
 
