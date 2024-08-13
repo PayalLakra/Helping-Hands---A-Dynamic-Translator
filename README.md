@@ -39,8 +39,8 @@ Helping Hand - Dynamic Translator:: It is a dynamic translation application offe
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/PayalLakra/Helping-Hands---A-Dynamic-Translator.git
+   cd Helping-Hands---A-Dynamic-Translator
    ```
 
 2. **Install the Required Python Packages**
@@ -64,9 +64,7 @@ Helping Hand - Dynamic Translator:: It is a dynamic translation application offe
 Run the application by executing:
 
 ```bash
-python your_script_name.py
+python CodeTranslator.py
 ```
-
-Replace `your_script_name.py` with the actual name of your script.
 
 
